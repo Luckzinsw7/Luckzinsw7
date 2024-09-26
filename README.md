@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá,bem vindo ao meu perfil!
 
-<!--
-**Luckzinsw7/Luckzinsw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Meu nome é Lucas Brasil ⚡
 
-Here are some ideas to get you started:
+# -Estou praticando na Alura
+# -Estou me desenvolvendo linguagem JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Se quiser entrar em contato comigo 
+# lucas.brasil27@escola.pr.gov.br
+
+![](![image](https://github.com/user-attachments/assets/56b7c780-da67-4fdc-bf73-0d39e769e6f1))
+
+
