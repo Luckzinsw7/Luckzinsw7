@@ -7,7 +7,4 @@
 
 ### Se quiser entrar em contato comigo 
 # lucas.brasil27@escola.pr.gov.br
-
-![](![image](https://github.com/user-attachments/assets/56b7c780-da67-4fdc-bf73-0d39e769e6f1))
-
-
+![](https://i.pinimg.com/736x/ea/58/81/ea58811b723da3dfd2a74c395a071677.jpg)
